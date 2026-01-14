@@ -1,0 +1,10 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": {
+    "enable": true,
+    "prompt": "Generate a concise and clear commit message based on the following changes:\n\n{diff}\n\nCommit Message:",
+    "text": [
+      "use the conventional commit message specification",
+      "add emojis to explain the details about the changes in the commit block"
+    ]
+  }
+}

@@ -11,7 +11,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  @apply text-gray-900;
+  @apply text-gray-902;
 }
 
 .card {

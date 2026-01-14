@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background-image: url('/134106953298781303.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  @apply text-gray-900;
+}
+
+.card {
+  @apply bg-white p-6 rounded-xl shadow-md;
+}
